@@ -26,7 +26,7 @@ function goLiri(input){
   if(appSearch === "concert-this"){
     concertThis(input)
   };
-  if(appSearch === "spotify-this"){
+  if(appSearch === "spotify-this-song"){
     spotifyThis(input)
   };
   if(appSearch === "movie-this"){
