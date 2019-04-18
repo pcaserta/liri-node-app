@@ -48,7 +48,7 @@ Javascript, Node.js, Moment.js, Bandsintown API, Spotify API, OMDb API
 
 ---
 
-## Authors
+## Author
 **Patrick Caserta**
 
 
