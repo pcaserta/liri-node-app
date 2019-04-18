@@ -37,5 +37,18 @@ Liri is a Language Interpretation and a Recognition interface that takes in cert
 ## Do what it says search
 `do-what-it-says`
 
-`do-what-it-says` is a command that reads the file random.text and executes it according to the parameters in the file. Default is set to `spotify-this-song I Want It That Way`
+`do-what-it-says` is a command that reads the file random.text and executes it according to the parameters in the file. Default is set to `spotify-this-song I Want It That Way`.
+
+<img width="1230" alt="screen shot 2018-12-09 at 4 05 24 pm" src="images/do-what-it-says.PNG">
+
+---
+
+## Built With
+Javascript, Node.js, Moment.js, Bandsintown API, Spotify API, OMDb API
+
+---
+
+## Authors
+Patrick Caserta
+
 
