@@ -28,8 +28,14 @@ Liri is a Language Interpretation and a Recognition interface that takes in cert
 ## OMDB Movie Search
 `node liri.js movie-this <song-name-here>`
 
-`movie-this` will search OMDB movies API for information on the movie that was searched. Title of the movie,year the movie came out, IMDB Rating of the movie, Rotten Tomatoes Rating of the movie, country where the movie was produced, language of the movie, plot of the movie, and actors in the movie will all be shown with each result.
+`movie-this` will search OMDB movies API for information on the movie that was searched. Title of the movie, year the movie came out, IMDB Rating of the movie, Rotten Tomatoes rating of the movie, country where the movie was produced, language of the movie, plot of the movie, and actors in the movie will all be shown with each result. If no movie is selected MR. Nobody is defaulted in the search.
 
 <img width="1230" alt="screen shot 2018-12-09 at 4 05 24 pm" src="images/movie-this.PNG">
 
+---
+
+## Do what it says search
+`do-what-it-says`
+
+`do-what-it-says` is a command that reads the file random.text and executes it according to the parameters in the file. Default is set to `spotify-this-song I Want It That Way`
 
