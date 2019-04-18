@@ -19,7 +19,13 @@ Liri is a Language Interpretation and a Recognition interface that takes in cert
 ## Spotify Search
 `node liri.js spotify-this-song <song-name-here>`
 
-`spotify-this-song` will search Spotify API for information on the song tha was searched. Song name, artist name, link to a preview of the song, and the album that the song was released in.
+`spotify-this-song` will search Spotify API for information on the song that was searched.Song name, artist name, link to a preview of the song, and the album that the song was released in.
 
 <img width="1230" alt="screen shot 2018-12-09 at 4 05 24 pm" src="images/spotify-this-song.PNG">
 
+---
+
+## OMDB Movie Search
+`node liri.js movie-this <song-name-here>`
+
+`movie-this` will search OMDB movies API for information on the movie that was searched.Title of the movie.Year the movie came out,I MDB Rating of the movie, Rotten Tomatoes Rating of the movie, country where the movie was produced, language of the movie, plot of the movie, and actors in the movie.
